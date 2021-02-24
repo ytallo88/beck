@@ -108,8 +108,8 @@ client.on('group-participants-update', async (anu) => {
 					ppimg = ''
 				}
 				teks = `oiee🐿️ @${num.split('@')[0]}\ ❀⃘࣭࣭࣭࣭ٜꔷ⃔𝑺𝒆𝒋𝒂 𝑩𝒆𝒎 𝑽𝒊𝒏𝒅𝒐🔥
-SE ∆PRESENTA 🌴🐃 G∆D❍̸S & 🐄💕G∆D∆S
-
+🌴🐃 G∆D❍̸S & 🐄💕G∆D∆S
+[𝙳𝙸𝙶𝙰 𝚂𝙴𝚄 𝙽𝙾𝙼𝙴 𝙴 𝚂𝚄𝙰 𝙸𝙳𝙰𝙳𝙴]
 
 ───────•𖧹❀⃘࣭࣭࣭࣭ٜꔷ⃔໑࣭࣭ٜ🚥❀⃘࣭࣭࣭࣭ٜꔷ⃔໑࣭࣭ٜ𖧹•──────
 🐻🍭Fɪϙᴜᴇ ᴀ Vᴏɴᴛᴀᴅᴇ Pʀᴀ Cᴏɴᴠᴇʀsᴀʀ🍧🐼
@@ -176,7 +176,7 @@ SE ENTROU🚸E PRA INTERAGIR🔥KARALHO
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["249156559835@s.whatsapp.net"] 
+			const ownerNumber = ["558894125641@s.whatsapp.net"] 
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
